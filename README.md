@@ -8,8 +8,13 @@ The LCD will also need the cable modifying to fit the SKR 3 mainboard, this is a
 
 I have made the compiled Firmware.bin file available in the root of this repo, so you can just copy it onto a micro SD card, plug it into the SKR 3 and power on. Once it stops flashing, power it off, remove the SD card and it will be ready to use. 
 
+However, every change I made to the most recent Marlin Bugtree branch is included here too so you can easily make the neccessary changes that you will VERY probably need to make to calibrate this firmware to work correctly with your setup. This is because I haven't got round to learning that side of things, I just wanted to prove the Stock LCD screen could be very easily made to work with Marlin on the SKR 3 and other SKR boards (and klipper too, but there's already a fork for that available from Desuuuu, though I've not tested it as of yet on the SKR 3)
 
+Hope this helps a lot of people save money when they choose to upgrade/replace their main boards, so they're not pushed into purchasing a non-needed, and non-fitting, LCD (like the tft35) :)
 
+Feel free to comment or reach out if you need assitance with anything, or want to leave me any feedback. I thrive on feedback of any kind, so be as blunt and direct or harsh as you feel like. It'll help make a better build for everyone :) 
+
+If you feel like buying me a coffee as a thanks, could you please make a donation to Viva instead https://viva.org.uk/donations/viva-donation-form/
 <h1 align="center">Marlin 3D Printer Firmware</h1>
 
 <p align="center">
