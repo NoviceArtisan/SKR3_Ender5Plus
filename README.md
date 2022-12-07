@@ -1,5 +1,15 @@
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
+This is a customised version of Marlin for the Ender 5 Plus to work with the BTT SKR 3 mainboard and using the stock LCD. 
+
+The stock LCD needs to be flashed with a custom LCD firmware available from https://github.com/Desuuuu/DGUS-reloaded/wiki/Flashing-the-firmware or it will not work with anything other than the stock main board. 
+
+The LCD will also need the cable modifying to fit the SKR 3 mainboard, this is a very simple modification and can be done in several ways. I'll add a diagram with pictures showing how it's done once I can figure out how to insert images into this page.
+
+I have made the compiled Firmware.bin file available in the root of this repo, so you can just copy it onto a micro SD card, plug it into the SKR 3 and power on. Once it stops flashing, power it off, remove the SD card and it will be ready to use. 
+
+
+
 <h1 align="center">Marlin 3D Printer Firmware</h1>
 
 <p align="center">
