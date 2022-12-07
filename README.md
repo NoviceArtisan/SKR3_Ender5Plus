@@ -2,7 +2,7 @@
 
 This is a customised version of Marlin for the Ender 5 Plus to work with the BTT SKR 3 mainboard and using the stock LCD. 
 
-The stock LCD needs to be flashed with a custom LCD firmware available from https://github.com/Desuuuu/DGUS-reloaded/wiki/Flashing-the-firmware or it will not work with anything other than the stock main board. 
+The stock LCD needs to be flashed with a custom LCD firmware available from https://github.com/Desuuuu/DGUS-reloaded/wiki/Flashing-the-firmware or it will not work with anything other than the stock main board, and the very buggy and outdated version of Marlin that Creality created 5,000 years ago.
 
 The LCD will also need the cable modifying to fit the SKR 3 mainboard, this is a very simple modification and can be done in several ways. I'll add a diagram with pictures showing how it's done once I can figure out how to insert images into this page.
 
